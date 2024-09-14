@@ -12,15 +12,13 @@ Code that develops a way to visualize USGS data: Earthquakes in the past week.
 
 ---
 
-## Map Link
-
-[map](https://caitlin-hartley.github.io/leaflet-challenge/)
+[Map Link](https://caitlin-hartley.github.io/leaflet-challenge/)
 
 ---
 
 ## Create the Earthquake Visualization
 
-Fetch GeoJSON dataset:
+### Fetch GeoJSON dataset:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes.
 
@@ -37,7 +35,7 @@ Javascrip to pull GeoJSON:
 
 ---
 
-Import and visualize the data:
+### Import and visualize the data:
 
 - Created a map that plots all the earthquakes from your dataset based on their longitude and latitude.
 - Datamarkers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color: Earthquakes with higher magnitudes appear larger, earthquakes with greater depth appear darker in color (green to red color scale)
