@@ -35,6 +35,7 @@ Javascrip to pull GeoJSON:
 
 ![json_code](https://github.com/caitlin-hartley/leaflet-challenge/blob/main/images/json_code.png)
 
+---
 
 Import and visualize the data:
 
