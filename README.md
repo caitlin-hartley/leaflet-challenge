@@ -15,6 +15,8 @@ Code that develops a way to visualize USGS data: Earthquakes in the past week.
 ## Create the Earthquake Visualization
 ### Visualize the earthquake dataset using the following steps:
 
+---
+
 Fetch GeoJSON dataset:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes.
